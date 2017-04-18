@@ -1,0 +1,2 @@
+# FDScrollLabelView
+类似于支付宝上面的通知滚动文字显示公告
